@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+ 
+# Editors
+.vscode/
+.idea/
+*.swp
+ 
+# Generated exports — keep artwork out of the repo
+*.png
+*.svg
+!docs/**/*.svg
+ 
